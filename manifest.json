@@ -1,0 +1,20 @@
+{
+    "name": "Twitter Topluluk Gizleyici",
+    "description": "Twitter (X) ana sayfasinda istediginiz topluluklarin gonderilerini gizlemenizi saglar.",
+    "version": "1.0",
+    "author": "john k.",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "hello.html",
+      "default_icon": "icon.png"
+    },
+    "permissions": [
+        "storage"
+    ],
+    "content_scripts": [
+        {
+            "matches": ["https://twitter.com/*", "https://x.com/*"],
+            "js": ["content.js"]
+        }
+    ]
+  }
