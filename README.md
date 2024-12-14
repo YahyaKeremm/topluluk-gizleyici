@@ -1,5 +1,29 @@
-# topluluk-gizleyici
-## Eklentiyi kurmak icin chrome://extensions adresine gidin ve Developer mode'u acin.![image](https://github.com/user-attachments/assets/be2f2eb2-6f63-4b85-afcb-904241e30eac)
-## Daha sonrasinda eklentiyi bir klasore cikartin ve Load unpacked'e basip eklentinin bulundugu klasoru secin. ![image](https://github.com/user-attachments/assets/83cb068e-2e8b-46f3-a656-deb4865ddba1)
-## Bu kadar. Eklentiyi goremiyorsaniz yukaridan eklenti listesine girip pinleyebilirsiniz. Daha sonrasinda eklentinin ikonuna bastiginizda acilan minik pencerede yeterince bilgi mevcut.
-![image](https://github.com/user-attachments/assets/18a01fce-7a38-4e95-ba87-c46fe350d187)
+# Topluluk Gizleyici
+
+## Açıklama
+Topluluk Gizleyici, belirli toplulukları gizlemenizi sağlayan bir Chrome eklentisidir. Bu eklenti, istenmeyen toplulukların görünümünü engelleyerek daha temiz bir kullanıcı deneyimi sunar.
+
+## Özellikler
+- Belirli toplulukları gizleme
+- Gizlenen toplulukların listesini görüntüleme
+- Engelleme ve engeli kaldırma butonları
+
+## Kurulum
+1. Chrome tarayıcınızı açın ve `chrome://extensions` adresine gidin.
+2. Sağ üst köşede "Geliştirici Modu"nu etkinleştirin.
+3. Eklentiyi bir klasöre çıkarın.
+4. "Paketlenmemiş yükle" butonuna tıklayın ve eklentinin bulunduğu klasörü seçin.
+
+## Kullanım
+1. Gizlemek istediğiniz topluluğun ana sayfasına gidin.
+2. Eklentiyi açın ve "Engelle" butonuna tıklayın.
+3. Gizlenen topluluklar, eklenti arayüzünde listelenecektir.
+
+## Katkıda Bulunma
+Eğer projeye katkıda bulunmak isterseniz, lütfen bir pull request oluşturun veya sorunları bildirin.
+
+## Lisans
+Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
+
+## İletişim
+Herhangi bir sorunuz veya öneriniz varsa, lütfen iletişime geçin.
